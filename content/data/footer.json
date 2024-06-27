@@ -1,12 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/photo_2024-06-21_12-05-29.jpg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "",
     "primaryLinks": {
-        "title": "Product",
+        "title": "FOUNDER-ALOK SANGHAVI",
         "links": [
             {
                 "label": "Features",
@@ -37,7 +37,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "SANSKRITI EMPORIUM",
         "links": [
             {
                 "label": "Careers",
